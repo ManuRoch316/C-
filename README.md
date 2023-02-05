@@ -1,2 +1,2 @@
-# C-
+# C++
 Trabajos en clase
